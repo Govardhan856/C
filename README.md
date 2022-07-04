@@ -1,2 +1,3 @@
 # C
-this repository about c programming questions
+this repository about c programming answers of questions
+
